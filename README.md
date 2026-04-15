@@ -1,4 +1,4 @@
-# Calculator-
+# Calculator
 Python Calculator Program
 A simple command-line calculator that performs basic arithmetic operations.
 
